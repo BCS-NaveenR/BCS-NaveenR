@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BCS-NaveenR
+- 👋 Hi, I’m Naveen Reddy
 - 👀 I’m interested in Software Development
 
 
